@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Problem_A_Samoloty_terminal/1.0.0": {
+        "dependencies": {
+          "Problem_A_Samoloty": "1.0.0"
+        },
+        "runtime": {
+          "Problem_A_Samoloty_terminal.dll": {}
+        }
+      },
+      "Problem_A_Samoloty/1.0.0": {
+        "runtime": {
+          "Problem_A_Samoloty.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problem_A_Samoloty_terminal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Problem_A_Samoloty/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

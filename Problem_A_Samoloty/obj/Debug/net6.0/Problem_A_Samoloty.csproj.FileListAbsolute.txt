@@ -1,0 +1,12 @@
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\Problem_A_Samoloty\Problem_A_Samoloty\bin\Debug\net6.0\Problem_A_Samoloty.deps.json
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\Problem_A_Samoloty\Problem_A_Samoloty\bin\Debug\net6.0\Problem_A_Samoloty.dll
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\Problem_A_Samoloty\Problem_A_Samoloty\bin\Debug\net6.0\Problem_A_Samoloty.pdb
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\Problem_A_Samoloty\Problem_A_Samoloty\obj\Debug\net6.0\Problem_A_Samoloty.csproj.AssemblyReference.cache
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\Problem_A_Samoloty\Problem_A_Samoloty\obj\Debug\net6.0\Problem_A_Samoloty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\Problem_A_Samoloty\Problem_A_Samoloty\obj\Debug\net6.0\Problem_A_Samoloty.AssemblyInfoInputs.cache
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\Problem_A_Samoloty\Problem_A_Samoloty\obj\Debug\net6.0\Problem_A_Samoloty.AssemblyInfo.cs
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\Problem_A_Samoloty\Problem_A_Samoloty\obj\Debug\net6.0\Problem_A_Samoloty.csproj.CoreCompileInputs.cache
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\Problem_A_Samoloty\Problem_A_Samoloty\obj\Debug\net6.0\Problem_A_Samoloty.dll
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\Problem_A_Samoloty\Problem_A_Samoloty\obj\Debug\net6.0\refint\Problem_A_Samoloty.dll
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\Problem_A_Samoloty\Problem_A_Samoloty\obj\Debug\net6.0\Problem_A_Samoloty.pdb
+C:\Users\Michał\Documents\Projekty_studia\probiekt2\Problem_A_Samoloty\Problem_A_Samoloty\obj\Debug\net6.0\ref\Problem_A_Samoloty.dll
